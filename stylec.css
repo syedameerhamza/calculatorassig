@@ -1,0 +1,29 @@
+body{
+	
+	text-align:center; 
+}
+.main{
+
+background-color:#e3f2fd;
+border:2px gray solid;
+margin-left:250px;
+width:50%;
+padding:5px;
+}
+.inputc{
+	margin-left:5px;
+	margin-right:5px;
+	box-shadow:1px 1px 1px 2px;
+}
+.two{
+	margin-top:5px;
+	
+	
+	
+}
+.bb{
+	width:10%;
+}
+.bbb{
+	width:32%;
+}
